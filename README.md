@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arthurianno
-- JS, C++ developer. 
+- iOS, Android developer. 
 
 <!---
 arthurianno/arthurianno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
